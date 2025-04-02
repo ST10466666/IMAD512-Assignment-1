@@ -76,9 +76,84 @@ Select a time of day: Choose the desired time of day(.e.g,"Morning", "afternoon"
 
 Tap the submit Button to get your meal suggestions 
 
-tape the reset button to reset your meal suggestions
+Tap the reset button to reset your meal suggestions
+
+Example:
+
+You select "afternoon" from the TimeOfDay, You tap Submit, 
+the app displays the lunch recommendations.
 
 ## Contributing
+
+### Community and Collaboration:
+
+Foster a welcoming and inclusive environment for contributors.
+
+Respect diverse culinary tradidtions and dietary preferences.
+
+Enage in constructive discussions and code reviews.
+
+### Innovations and Improvements
+
+Explore new technologies and approaches to meal planning.
+
+Continously seek ways to enhance the app's functionality.
+
+### Clear amd Concise Communication
+
+Write clear and well-documantation code.
+
+Provide detailed bug reports and feature requests.
+
+Communicate effectively with other contributors.
+
+### Performance and Efficiency
+
+Optomize the app for speed and responsiveness.
+
+Ensure compatibility across different devices and platforms.
+
+### Respectful of Copyright and Liecencing:
+
+Ensure all code and content is properly licensed.
+
+### How to  submit Bug Reports, or pull requests:
+
+### 1.Bug Reports:
+
+Check existing issues: Before submitting a new bug report, search the issue tracker to see if the bug has already been reported.
+
+### Provide Detailed Information:
+Title: Give a concise and descriptive title.
+
+Describe the bug clearly and accurately
+
+Explain the steps to reproduce the bug
+
+Include the expected behaviour and the actual behaviour.
+
+Specify the opertaing system, browser, ordevice used.
+
+Inculde and relevant screenshots or error messages
+
+Add appropriate lables.
+
+### pull requests
+
+address feedback: Respond to comments and make any necessary changes
+
+## License
+
+Apache Software License, Version 2.0
+
+## Links
+
+Youtube:
+https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FO4RJGmbuDos%3Fsi%3D_eCYH-nOEjesdIXv&data=05%7C02%7CST10466666%40rcconnect.edu.za%7C9f841d6a2c584151a1f208dd720d13dd%7Ce10c8f44f469448fbc0dd781288ff01b%7C0%7C0%7C638792122716474667%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e01SjLuFbpoyaYnaHuIUeCLZQCCFf6nrK9Q%2BAQDiMOE%3D&reserved=0
+
+
+
+
 
 
 
