@@ -25,6 +25,9 @@ Instructions on how to install and set up the App.
 
    Android Studio will begin building the project and downloading dependencies.
 
+   ![running](https://github.com/user-attachments/assets/24c5e9ca-3b8c-4d02-b210-3bdc1fcbf302)
+
+
   ### 2.Install Dependencies:
 
    Android Studio will automatically intall the dependencies listed in your build.gradle file.
@@ -67,6 +70,9 @@ Example:
 
 You open the app, You tap the "TimeOfDay", and type 'dinner" 
 the app will display your meals for dinner.
+
+![example](https://github.com/user-attachments/assets/26d87596-4be2-42ce-9002-770faaac1c9d)
+
 
 ### 2.Select the time of day
 
