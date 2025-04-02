@@ -35,7 +35,7 @@ Instructions on how to install and set up the App.
 
    If Android Studio prompts you to sync Gradle file,click "Sync Now".
 
-   Alternating, you can manually trigger a Grdale sync by going to "File">"Sync project with Gradel files".
+   Alternatively, you can manually trigger a Gradle sync by going to "File">"Sync project with Gradle files".
 
    This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
