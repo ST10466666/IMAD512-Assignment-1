@@ -18,5 +18,11 @@ Instructions on how to install and set up the App.
 1. Open the project in Android Studio:
 
    Launach Android Studio
+
+   Click "Open" or "Open an existing Android Studio Project".
+
+   Navigate to the project directory and select the build.gradle file.
+
+   
    
    
