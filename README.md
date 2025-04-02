@@ -15,7 +15,7 @@ It gives customers meal suggestions that may be customised to fit their nutritio
 ## Installation
 
 Instructions on how to install and set up the App.
-1. Open the project in Android Studio:
+### 1. Open the project in Android Studio:
 
    Launach Android Studio
 
@@ -25,21 +25,21 @@ Instructions on how to install and set up the App.
 
    Android Studio will begin building the project and downloading dependencies.
 
-   2.Install Dependencies:
+  ### 2.Install Dependencies:
 
    Android Studio will automatically intall the dependencies listed in your build.gradle file.
 
    If you've addednany new dependencies, make sure to sync Gradle again.
+   
+   ### 3.Sync Gradle:
 
-   3.Sync Gradle:
+   If Android Studio prompts you to sync Gradle file,clicl "Sync Now".
 
-   If Android Studio prompt sync gradle files,click "Sync Now".
+   Alternating, you can manually trigger a Grdale sync by going to "File">"Sync project with Gradel files".
 
-   Alternating, you can manually trigger a Gradle sync by going to "file">"Sync Project with Gradle Files".
+   This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
-   This step downloads all necessary libraies and dependencies defined in your build.gradle files.
-
-4.Run the Project:
+   ### 4.Run the Project:
 
 Start the emulator.
 
@@ -47,7 +47,7 @@ Click the "RUN" button in Android Studio (the green triangle).
 
 Android studio will build the app and install it on your emulator.
 
-5.Troubleshooting:
+### 5.Troubleshooting:
 
 If you encounter any errors.check the "Build" and "Logcat" panels in Android Studio for error messages.
 
