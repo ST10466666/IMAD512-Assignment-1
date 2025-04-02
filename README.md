@@ -42,6 +42,9 @@ Instructions on how to install and set up the App.
 
    This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
+   ![gradle](https://github.com/user-attachments/assets/605f6c60-674c-4ee2-b6b3-bc08c44b5492)
+
+
    ### 4.Run the Project:
 
 Start the emulator.
@@ -49,6 +52,9 @@ Start the emulator.
 Click the "RUN" button in Android Studio (the green triangle).
 
 Android studio will build the app and install it on your emulator.
+
+![running](https://github.com/user-attachments/assets/64efa8b5-95fc-4a4d-a014-5b6a50ec4b8d)
+
 
 ### 5.Troubleshooting:
 
@@ -71,7 +77,8 @@ Example:
 You open the app, You tap the "TimeOfDay", and type 'dinner" 
 the app will display your meals for dinner.
 
-![example](https://github.com/user-attachments/assets/26d87596-4be2-42ce-9002-770faaac1c9d)
+![dinner](https://github.com/user-attachments/assets/06977f0e-b6e4-493f-a81a-b22c50a0ba92)
+
 
 
 ### 2.Select the time of day
@@ -79,6 +86,9 @@ the app will display your meals for dinner.
 Navigate to the time of day.
 
 Select a time of day: Choose the desired time of day(.e.g,"Morning", "afternoon","mid-morning", "mid-afternoon").
+
+![example](https://github.com/user-attachments/assets/4c22cb51-6822-48b7-b58c-3e846a4a03b0)
+
 
 Tap the submit Button to get your meal suggestions 
 
@@ -156,6 +166,9 @@ Apache Software License, Version 2.0
 
 Youtube:
 https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FO4RJGmbuDos%3Fsi%3D_eCYH-nOEjesdIXv&data=05%7C02%7CST10466666%40rcconnect.edu.za%7C9f841d6a2c584151a1f208dd720d13dd%7Ce10c8f44f469448fbc0dd781288ff01b%7C0%7C0%7C638792122716474667%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=e01SjLuFbpoyaYnaHuIUeCLZQCCFf6nrK9Q%2BAQDiMOE%3D&reserved=0
+
+## Github:
+
 
 
 
