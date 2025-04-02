@@ -29,7 +29,7 @@ Instructions on how to install and set up the App.
 
    Android Studio will automatically intall the dependencies listed in your build.gradle file.
 
-   If you've addednany new dependencies, make sure to sync Gradle again.
+   If you've added any new dependencies, make sure to sync Gradle again.
    
    ### 3.Sync Gradle:
 
