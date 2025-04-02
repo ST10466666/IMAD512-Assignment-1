@@ -33,7 +33,7 @@ Instructions on how to install and set up the App.
    
    ### 3.Sync Gradle:
 
-   If Android Studio prompts you to sync Gradle file,clicl "Sync Now".
+   If Android Studio prompts you to sync Gradle file,click "Sync Now".
 
    Alternating, you can manually trigger a Grdale sync by going to "File">"Sync project with Gradel files".
 
