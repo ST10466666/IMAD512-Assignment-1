@@ -33,7 +33,7 @@ Instructions on how to install and set up the App.
    
    ### 3.Sync Gradle:
 
-   If Android Studio prompts you to sync Gradle file,click "Sync Now".
+   If Android Studio prompts you to sync Gradle file, click "Sync Now".
 
    Alternatively, you can manually trigger a Gradle sync by going to "File">"Sync project with Gradle files".
 
@@ -49,9 +49,47 @@ Android studio will build the app and install it on your emulator.
 
 ### 5.Troubleshooting:
 
-If you encounter any errors.check the "Build" and "Logcat" panels in Android Studio for error messages.
+If you encounter any errors. check the "Build" and "Logcat" panels in Android Studio for error messages.
 
 Search for error messages online or consult relevent documentations.
+
+## Usage
+
+### 1.Getting a Random Meal Suggestion:
+
+Launch the app: Open the Meal Suggestion app on your emulator.
+
+Tap the "TimeOfDay" text: On the screen, locate and tap the "TimeOfDay" text.
+
+View the meal details: The app will display a randomly seceleted meal
+
+Example:
+
+You open the app, You tap the "TimeOfDay", and type 'dinner" 
+the app will display your meals for dinner.
+
+### 2.Select the time of day
+
+Navigate to the time of day.
+
+Select a time of day: Choose the desired time of day(.e.g,"Morning", "afternoon","mid-morning", "mid-afternoon").
+
+Tap the submit Button to get your meal suggestions 
+
+tape the reset button to reset your meal suggestions
+
+## Contributing
+
+
+
+
+
+
+
+
+
+
+
 
 
    
