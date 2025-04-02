@@ -4,13 +4,19 @@ The goal of a meal suggestion app created with Kotlin in Android Studio is to ad
 It gives customers meal suggestions that may be customised to fit their nutritional needs or preferences.
 
 ## Table of contents
--[Installation] (Installation)
+-Installation
 
--[Usage] (Usage)
+-Usage
 
--[Contributing] (Contributing)
+-Contributing
 
--[Licence] (Licence)
+-Licence
 
 ### Installation
 
+Instructions on how to install and set up the App.
+1. Open the project in Android Studio:
+
+   Launach Android Studio
+   
+   
