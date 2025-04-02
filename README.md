@@ -5,8 +5,11 @@ It gives customers meal suggestions that may be customised to fit their nutritio
 
 ## Table of contents
 -[Installation] (Installation)
+
 -[Usage] (Usage)
+
 -[Contributing] (Contributing)
+
 -[Licence] (Licence)
 
 ### Installation
