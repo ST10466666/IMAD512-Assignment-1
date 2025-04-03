@@ -115,7 +115,7 @@ Explore new technologies and approaches to meal planning.
 
 Continously seek ways to enhance the app's functionality.
 
-### Clear amd Concise Communication
+### Clear and Concise Communication
 
 Write clear and well-documantation code.
 
