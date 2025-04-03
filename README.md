@@ -27,12 +27,20 @@ Instructions on how to install and set up the App.
 
    ![running](https://github.com/user-attachments/assets/24c5e9ca-3b8c-4d02-b210-3bdc1fcbf302)
 
+   Reference: mobikul.com , 2010. HOW TO INSTALL THE EXTERNAL APP TO THE ANDROID EMULATOR. 
+[online] Available at: https://mobikul.com/install-external-app-android-emulator/#:~:text=How%20to%20install%20the%20.apk%20file%20on%20the,app%20in%20the%20launcher%20of%20your%20android%20emulator.
+[Accessed 03 April 2025.
+
 
   ### 2.Install Dependencies:
 
    Android Studio will automatically intall the dependencies listed in your build.gradle file.
 
    If you've added any new dependencies, make sure to sync Gradle again.
+
+   Reference: mobikul.com , 2010. HOW TO INSTALL THE EXTERNAL APP TO THE ANDROID EMULATOR. 
+[online] Available at: https://mobikul.com/install-external-app-android-emulator/#:~:text=How%20to%20install%20the%20.apk%20file%20on%20the,app%20in%20the%20launcher%20of%20your%20android%20emulator.
+[Accessed 03 April 2025.
    
    ### 3.Sync Gradle:
 
@@ -43,6 +51,8 @@ Instructions on how to install and set up the App.
    This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
    ![gradle](https://github.com/user-attachments/assets/605f6c60-674c-4ee2-b6b3-bc08c44b5492)
+
+   
 
 
    ### 4.Run the Project:
@@ -161,6 +171,7 @@ address feedback: Respond to comments and make any necessary changes
 ## License
 
 Apache Software License, Version 2.0
+
 
 ## Links
 
