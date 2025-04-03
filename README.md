@@ -29,7 +29,7 @@ Instructions on how to install and set up the App.
 
    Reference: mobikul.com , 2010. HOW TO INSTALL THE EXTERNAL APP TO THE ANDROID EMULATOR. 
 [online] Available at: https://mobikul.com/install-external-app-android-emulator/#:~:text=How%20to%20install%20the%20.apk%20file%20on%20the,app%20in%20the%20launcher%20of%20your%20android%20emulator.
-[Accessed 03 April 2025.
+[Accessed 03 April 2025].
 
 
   ### 2.Install Dependencies:
@@ -40,7 +40,7 @@ Instructions on how to install and set up the App.
 
    Reference: mobikul.com , 2010. HOW TO INSTALL THE EXTERNAL APP TO THE ANDROID EMULATOR. 
 [online] Available at: https://mobikul.com/install-external-app-android-emulator/#:~:text=How%20to%20install%20the%20.apk%20file%20on%20the,app%20in%20the%20launcher%20of%20your%20android%20emulator.
-[Accessed 03 April 2025.
+[Accessed 03 April 2025].
    
    ### 3.Sync Gradle:
 
@@ -50,12 +50,14 @@ Instructions on how to install and set up the App.
 
    This step downlaod all the necessary libraries and dependencies defined in your build.gradle files.
 
-   ![gradle](https://github.com/user-attachments/assets/605f6c60-674c-4ee2-b6b3-bc08c44b5492)
+   ![gradle](https://github.com/user-attachments/assets/605f6c60-674c-4ee2-b6b3-bc08c44b5492) 
+   
+   Reference: Develpoers , 2024. ANDROID GRADLE PLUGIN 8.9 RELEASE NOTES. 
+[online] Available at: https://developer.android.com/build/releases/gradle-plugin.
+[Accessed 03 April 2025].
 
    
-
-
-   ### 4.Run the Project:
+  ### 4.Run the Project:
 
 Start the emulator.
 
@@ -63,7 +65,11 @@ Click the "RUN" button in Android Studio (the green triangle).
 
 Android studio will build the app and install it on your emulator.
 
-![running](https://github.com/user-attachments/assets/64efa8b5-95fc-4a4d-a014-5b6a50ec4b8d)
+![running](https://github.com/user-attachments/assets/64efa8b5-95fc-4a4d-a014-5b6a50ec4b8d)Reference: mobikul.com , 2010. HOW TO INSTALL THE EXTERNAL APP TO THE ANDROID EMULATOR. 
+[online] Available at: https://mobikul.com/install-external-app-android-emulator/#:~:text=How%20to%20install%20the%20.apk%20file%20on%20the,app%20in%20the%20launcher%20of%20your%20android%20emulator.
+[Accessed 03 April 2025].
+
+
 
 
 ### 5.Troubleshooting:
@@ -71,6 +77,9 @@ Android studio will build the app and install it on your emulator.
 If you encounter any errors. check the "Build" and "Logcat" panels in Android Studio for error messages.
 
 Search for error messages online or consult relevent documentations.
+
+Reference: Developers ,2024. Troubleshoot Android Studio| Android Developers. [Online] Available at:https://developer.android.com/studio/troubleshoot.
+[Accessed on 03 April 2025]
 
 ## Usage
 
@@ -168,6 +177,8 @@ Add appropriate lables.
 
 address feedback: Respond to comments and make any necessary changes
 
+Reference:Support emulation projects,2025. Support emulation projects. [online] Available at:https://emulation.gametechwiki.com/index.php/Support_emulation_projects . 
+[Accessed on 03 April 2025]
 ## License
 
 Apache Software License, Version 2.0
